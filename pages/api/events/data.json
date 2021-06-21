@@ -1,0 +1,30 @@
+{
+    "events":[
+        {
+            "tag": "#PU2G2098",
+            "name": "JoE_UcHiHa",
+            "townHallLevel": 11,
+            "expLevel": 139,
+            "trophies": 1963,
+            "bestTrophies": 3658,
+            "warStars": 536,
+            "attackWins": 39,
+            "defenseWins": 1,
+            "builderHallLevel": 6,
+            "versusTrophies": 2132,
+            "bestVersusTrophies": 2422,
+            "versusBattleWins": 398,
+            "role": "Co-Leader",
+            "donations": 12,
+            "donationsReceived": 134,
+            "image":"/images/example/Joe1.png",
+            "clan": {
+                "tag": "#2P0Q2GP9Q",
+                "name": "JAGOI WAR",
+                "clanLevel": 8
+        }
+    }
+        
+    ]
+   
+}
